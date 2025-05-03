@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "presentation.html#introduction",
+    "href": "presentation.html#introduction",
+    "title": "Visualizing Formula 1",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\nFormula 1 has seen a surge in global popularity over the past decade\n\nOnce a niche motorsport, now a mainstream global spectacle\n\nNetflix’s Formula1: Drive to Survive played a key role in expanding the audience\n\nHumanized drivers, amplified rivalries, and revealed behind-the-scenes drama\n\n\n\n\n\n\nPoster for Netflix’s Formula 1: Drive to Survive series"
+  },
+  {
+    "objectID": "presentation.html#rise-in-popularity",
+    "href": "presentation.html#rise-in-popularity",
+    "title": "Visualizing Formula 1",
+    "section": "Rise in Popularity",
+    "text": "Rise in Popularity\n\n\n\n\nFigure 2: Google searches related to Formula 1 over the last 10 years."
+  },
+  {
+    "objectID": "presentation.html#track-level-influences",
+    "href": "presentation.html#track-level-influences",
+    "title": "Visualizing Formula 1",
+    "section": "Track-Level Influences",
+    "text": "Track-Level Influences\n\n\n\nLayout: Varying circuit designs from tight street tracks to high-speed power circuits\nTechnicality: Different cornering demands and precision requirements per track\nEnvironment: Surface conditions, weather, and elavation changes\nPhysical Toll: G-Forces and driver endurance demands vary by circuit\n\n\n\n\n\nPoster for 2024 Monaco Grand Prix"
+  },
+  {
+    "objectID": "presentation.html#geospatial-track-maps",
+    "href": "presentation.html#geospatial-track-maps",
+    "title": "Visualizing Formula 1",
+    "section": "Geospatial Track Maps",
+    "text": "Geospatial Track Maps"
+  },
+  {
+    "objectID": "presentation.html#climate-considerations",
+    "href": "presentation.html#climate-considerations",
+    "title": "Visualizing Formula 1",
+    "section": "Climate Considerations",
+    "text": "Climate Considerations"
+  },
+  {
+    "objectID": "presentation.html#team-level-influences",
+    "href": "presentation.html#team-level-influences",
+    "title": "Visualizing Formula 1",
+    "section": "Team-Level Influences",
+    "text": "Team-Level Influences\n\n\n\nPit Stop Efficiency: Quick tire changes help maintain track positions, or limit postion losses.\nPit Stop Timing: Strategic pit stops based on tire wear, weather, track conditions, and competitor movements.\nCar Setup: Adjustments made to optimize performance for each track’s unique characteristics and conditions.\n\n\n\n\n\nAerial image of a Ferarri pitstop"
+  },
+  {
+    "objectID": "presentation.html#pit-stop-duration",
+    "href": "presentation.html#pit-stop-duration",
+    "title": "Visualizing Formula 1",
+    "section": "Pit Stop Duration",
+    "text": "Pit Stop Duration"
+  },
+  {
+    "objectID": "presentation.html#pit-stop-timing",
+    "href": "presentation.html#pit-stop-timing",
+    "title": "Visualizing Formula 1",
+    "section": "Pit Stop Timing",
+    "text": "Pit Stop Timing"
+  },
+  {
+    "objectID": "presentation.html#driver-level-influences",
+    "href": "presentation.html#driver-level-influences",
+    "title": "Visualizing Formula 1",
+    "section": "Driver-Level Influences",
+    "text": "Driver-Level Influences\n\n\n\nLap Times: Drivers aim for optimal speed while balancing tire wear and track conditions.\nStarting Position: Strong qualifying positions provide an advantage in race strategy and overtaking opportunities.\n\n\n\n\n\nPodium for the 2022 Miami Grand Prix"
+  },
+  {
+    "objectID": "presentation.html#lap-time-consistency",
+    "href": "presentation.html#lap-time-consistency",
+    "title": "Visualizing Formula 1",
+    "section": "Lap Time Consistency",
+    "text": "Lap Time Consistency\n\n\n\nFactors: A driver’s lap times are highly dependent on myriad of factors\n\nSkills & experience\nTrack length\nDriving style\nPhysical & mental state\nFeedback & communication with team\n\n\n\n\n\n\nLewis Hamilton’s lap time distrbutions per circuit"
+  },
+  {
+    "objectID": "presentation.html#the-margins-for-victory-are-razor-thin",
+    "href": "presentation.html#the-margins-for-victory-are-razor-thin",
+    "title": "Visualizing Formula 1",
+    "section": "The margins for victory are razor thin",
+    "text": "The margins for victory are razor thin\n\n\n\n\n\nVerstappen: Median lap time 86k ms\n\n\n\n\n\n\nHamilton: Median lap time 87k ms"
+  },
+  {
+    "objectID": "presentation.html#lap-times-decrease-over-time",
+    "href": "presentation.html#lap-times-decrease-over-time",
+    "title": "Visualizing Formula 1",
+    "section": "Lap times decrease over time",
+    "text": "Lap times decrease over time\n\n\n\n\n\nLeclerc: 1st place\n\n\n\n\n\n\nHamilton: 5th place"
+  },
+  {
+    "objectID": "presentation.html#qualifying-race-impact",
+    "href": "presentation.html#qualifying-race-impact",
+    "title": "Visualizing Formula 1",
+    "section": "Qualifying Race Impact",
+    "text": "Qualifying Race Impact"
+  },
+  {
+    "objectID": "presentation.html#references",
+    "href": "presentation.html#references",
+    "title": "Visualizing Formula 1",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Visualizing Formula 1",
+    "section": "",
+    "text": "While many may recognize F1 as the pinnacle of motorsport, fewer are familiar with the nuances that define competition in this high-stakes, billion-dollar industry. To appreciate the insights our analysis provides, we first need to break down the essential components of the sport: how success is measured, what factors influence race outcomes, and why teams and drivers make strategic decisions throughout a season."
+  },
+  {
+    "objectID": "index.html#a-deep-dive-into-f1s-most-iconic-circuits",
+    "href": "index.html#a-deep-dive-into-f1s-most-iconic-circuits",
+    "title": "Visualizing Formula 1",
+    "section": "A Deep Dive into F1’s Most Iconic Circuits",
+    "text": "A Deep Dive into F1’s Most Iconic Circuits\nFormula 1 is often heralded as the platinum standard of motorsport, and for good reason. Each track raced on over the course of a season presents a set of unique and nuanced challenges that teams must navigate if they wish to win. In this section, we created an interactive visualization that lets you explore five of Formula 1’s most iconic circuits - each chosen to showcase different aspects of what makes F1 such a technically demanding sport.\n\nThe Tracks: A Study of Contrasts\nOur visualization focuses on five carefully selected circuits that represent a unique spectrum of the challenges faced by F1 drivers:\n\n\n\n\n🇲🇨 Monaco: The Ultimate Precision Test   Along the narrow streets of Monte Carlo, Monaco represents F1 at its most technical. In this circuit, drivers must be prepared to thread their million-dollar beasts through gaps that are no wider than the car itself. Our visualization reveals how lap performance is heavily dictated by the famous hairpin turn on the upper right hand section of the track - where drivers who misjudge the apex can find themselves being passed by cars on the inside, or lose precious time. \n\n\n\n\n🇮🇹 Monza: The Temple of Speed   In contrast to Monaco, Italy’s Monza circuit is all about pure horsepower. Known as “The Temple of Speed”, this famous track consists of a long straightaway the allows drivers to conclude laps with blistering speeds. When looking at animations of the circuit, it’s clear the faster teams are often better equipped to win at Monza. When selected, we can see the McLaren’s Lando Norris has the fastest lap time of any driver on the circuit - thanks to both his car’s superior straight line speed and his natural talent as a driver. \n\n\n\n\n🇸🇬 Singapore: The Twilight Zone   The Marina Bay Circuit represents one of F1’s most physically demanding tracks. The combonation of long straights into tight corners means drivers must be prepared to experience high g-forces around turns. \n\n\n\n\n🇧🇪 Belgium: The Mountainous Test   Belgium’s Spa-Francorchamps circuit is known for its high-speed turns and steep elevation changes. This circuit is a true test of a driver’s skill and car’s durability, as drivers navigate through a series of fast corners and elevation changes. \n\n\n\n\n🇺🇸 Austin: Circuit of the Americas   The Circuit of the Americas is a track that is known for its high-speed turns and long straights. This circuit is a true test of a driver’s skill and car’s durability, as drivers navigate through a series of fast corners and elevation changes."
+  },
+  {
+    "objectID": "index.html#interactive-features-that-tell-the-story",
+    "href": "index.html#interactive-features-that-tell-the-story",
+    "title": "Visualizing Formula 1",
+    "section": "Interactive Features That Tell the Story",
+    "text": "Interactive Features That Tell the Story\nOur visualization puts you in control of understanding each of these iconic tracks. Within it, you can:\n\nSelect any of the five featured races (from the 2024 season)\nChoose a specific driver to focus on\nCompare their fastest and slowest laps\nOverlay the track with their lap’s telemetry data, including:\n\nSpeed\nThrottle %\nGear number\nBraking\nRPMs\n\nOnce selected, you can watch an animated replay of the lap, with the selected driver marked in black and the overall fastest lap marked in gold\n\nThis level of detail helps to reveal the subtle differences in driving styles and approaches to each circuit. For example, you may notice how different drivers:\n\nApproach braking zones\nManage their speed through various types of corners\nAdapt their techniques to each track’s unique characteristics\n\nYou can find a personal favorite example of this animation using the following configuration:\n\nRace: Singapore Grand Prix\nDriver: Max Verstappen (Fastest)\n\nIn this comparison, we can see how Verstappen is able to capitalize on his car’s superior speed to overtake Ricciardo in the first straightaway, offering him an advantage when going into turn 3. The drivers remain close until turn 7, where Verstappen appears to take a slower approach to the turn, allowing Ricciardo to gain time back. Going into the second to last straightaway, Ricciardo furher capitalizes on his well-executed turn by creating a gap between the two drivers - giving him more leeway in the final two turns, and ultimately solidifying his position as the fastest lap in the race overall."
+  },
+  {
+    "objectID": "index.html#why-this-matters",
+    "href": "index.html#why-this-matters",
+    "title": "Visualizing Formula 1",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nUnderstanding these nuances isn’t just about appreciating the technicality of the sport - it’s about understanding the incredible complexity of F1. Each circuit demands a unique approach, different car setups, and different strategies. Through this visualization, we hope to provide a deeper understanding of what it takes to perform at an elite level in each of these tracks.\nWhether you are a die-hard F1 fan, or just beginning to explore the sport, we hope this interactive tool helps to provide some insight into the technical brilliance required to compete at the highest level of motorsport.\nPlease feel free to explore the visualization below and discover your own findings. You might be surprised by what you learn!\n\nReminder: For the example above we selected the fastest lap for Max Verstappen in the Singapore Grand Prix."
+  }
+]

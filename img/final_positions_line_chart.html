@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-e18c440a4c833b88837f0f32bf96e653"}, "mark": {"type": "line", "point": true}, "encoding": {"color": {"field": "constructorName", "title": "Constructor", "type": "nominal"}, "opacity": {"condition": {"param": "param_2", "value": 1}, "value": 0.1}, "size": {"condition": {"param": "param_2", "value": 3}, "value": 1.5}, "tooltip": [{"field": "constructorName", "type": "nominal"}, {"field": "year", "type": "quantitative"}, {"field": "rank", "type": "quantitative"}], "x": {"field": "year", "title": "Year", "type": "ordinal"}, "y": {"field": "rank", "scale": {"domain": [1, 5], "reverse": true}, "title": "Final Position", "type": "quantitative"}}, "height": 400, "params": [{"name": "param_2", "select": {"type": "point", "fields": ["constructorName"]}, "bind": "legend"}], "title": "Constructor Final Positions by Year", "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-e18c440a4c833b88837f0f32bf96e653": [{"year": 2015, "constructorName": "Ferrari", "constructorId": 114, "points": 428.0, "cumulative_points": 4457.0, "rank": 2}, {"year": 2015, "constructorName": "Mercedes", "constructorId": 2489, "points": 703.0, "cumulative_points": 7139.0, "rank": 1}, {"year": 2015, "constructorName": "Red Bull", "constructorId": 171, "points": 187.0, "cumulative_points": 1740.0, "rank": 4}, {"year": 2016, "constructorName": "Ferrari", "constructorId": 126, "points": 398.0, "cumulative_points": 4566.0, "rank": 3}, {"year": 2016, "constructorName": "Mercedes", "constructorId": 2751, "points": 765.0, "cumulative_points": 8085.0, "rank": 1}, {"year": 2016, "constructorName": "Red Bull", "constructorId": 189, "points": 468.0, "cumulative_points": 4842.0, "rank": 2}, {"year": 2017, "constructorName": "Ferrari", "constructorId": 120, "points": 522.0, "cumulative_points": 5749.0, "rank": 2}, {"year": 2017, "constructorName": "Mercedes", "constructorId": 2620, "points": 668.0, "cumulative_points": 6928.0, "rank": 1}, {"year": 2017, "constructorName": "Red Bull", "constructorId": 180, "points": 368.0, "cumulative_points": 3674.0, "rank": 3}, {"year": 2018, "constructorName": "Ferrari", "constructorId": 126, "points": 571.0, "cumulative_points": 6474.0, "rank": 2}, {"year": 2018, "constructorName": "Mercedes", "constructorId": 2751, "points": 655.0, "cumulative_points": 6903.0, "rank": 1}, {"year": 2018, "constructorName": "Red Bull", "constructorId": 189, "points": 419.0, "cumulative_points": 4451.0, "rank": 3}, {"year": 2019, "constructorName": "Ferrari", "constructorId": 126, "points": 504.0, "cumulative_points": 5735.0, "rank": 2}, {"year": 2019, "constructorName": "McLaren", "constructorId": 21, "points": 145.0, "cumulative_points": 1403.0, "rank": 4}, {"year": 2019, "constructorName": "Mercedes", "constructorId": 2751, "points": 739.0, "cumulative_points": 8631.0, "rank": 1}, {"year": 2019, "constructorName": "Red Bull", "constructorId": 189, "points": 417.0, "cumulative_points": 4399.0, "rank": 3}, {"year": 2020, "constructorName": "McLaren", "constructorId": 17, "points": 202.0, "cumulative_points": 1730.0, "rank": 4}, {"year": 2020, "constructorName": "Mercedes", "constructorId": 2227, "points": 573.0, "cumulative_points": 5476.0, "rank": 1}, {"year": 2020, "constructorName": "Red Bull", "constructorId": 153, "points": 319.0, "cumulative_points": 2867.0, "rank": 2}, {"year": 2021, "constructorName": "Ferrari", "constructorId": 132, "points": 323.5, "cumulative_points": 3687.5, "rank": 3}, {"year": 2021, "constructorName": "McLaren", "constructorId": 22, "points": 275.0, "cumulative_points": 3641.0, "rank": 4}, {"year": 2021, "constructorName": "Mercedes", "constructorId": 2882, "points": 613.5, "cumulative_points": 6915.5, "rank": 1}, {"year": 2021, "constructorName": "Red Bull", "constructorId": 198, "points": 585.5, "cumulative_points": 6786.5, "rank": 2}, {"year": 2022, "constructorName": "Ferrari", "constructorId": 132, "points": 554.0, "cumulative_points": 6584.0, "rank": 2}, {"year": 2022, "constructorName": "McLaren", "constructorId": 22, "points": 159.0, "cumulative_points": 1852.0, "rank": 5}, {"year": 2022, "constructorName": "Mercedes", "constructorId": 2882, "points": 515.0, "cumulative_points": 5596.0, "rank": 3}, {"year": 2022, "constructorName": "Red Bull", "constructorId": 198, "points": 759.0, "cumulative_points": 8439.0, "rank": 1}, {"year": 2023, "constructorName": "Ferrari", "constructorId": 132, "points": 406.0, "cumulative_points": 4279.0, "rank": 3}, {"year": 2023, "constructorName": "McLaren", "constructorId": 22, "points": 302.0, "cumulative_points": 2585.0, "rank": 4}, {"year": 2023, "constructorName": "Mercedes", "constructorId": 2882, "points": 409.0, "cumulative_points": 4882.0, "rank": 2}, {"year": 2023, "constructorName": "Red Bull", "constructorId": 198, "points": 860.0, "cumulative_points": 10134.0, "rank": 1}, {"year": 2024, "constructorName": "Ferrari", "constructorId": 144, "points": 652.0, "cumulative_points": 7961.0, "rank": 2}, {"year": 2024, "constructorName": "McLaren", "constructorId": 24, "points": 666.0, "cumulative_points": 7889.0, "rank": 1}, {"year": 2024, "constructorName": "Mercedes", "constructorId": 3144, "points": 468.0, "cumulative_points": 5229.0, "rank": 4}, {"year": 2024, "constructorName": "Red Bull", "constructorId": 216, "points": 589.0, "cumulative_points": 8599.0, "rank": 3}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+---
+title: "F1 Track Visualization"
+format:
+    html
+---
+
+# This implementation uses duckdb to load calls from FastF1 and runs on a streamlit app.
+
+
+Here's the interactive Streamlit app:
+
+<iframe 
+    src="https://dsan5200group25.streamlit.app?embed=true"
+    width="150%" 
+    height="900" 
+    frameborder="0"
+    allow="fullscreen"
+    style="border: none;"
+    sandbox="allow-same-origin allow-scripts allow-forms"
+></iframe>

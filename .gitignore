@@ -1,0 +1,5 @@
+5200-project/
+__pycache__/
+website/.quarto/
+code/visualizations/tracks/f1_animations/
+code/visualizations/tracks/database/track_db.duckdb

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: Visualizing_Formula_1
+website:
+  title: "Visualizing Formula 1"
+  navbar:
+    title: Visualizing F1
+    search: true
+    left:
+      - text: Homepage
+        href: https://corcoran.georgetown.domains/Homepage/index.html
+      - text: Narrative
+        href: ./index.qmd
+      - text: Presentation
+        href: ./presentation.qmd
+    right:
+      - icon: github
+        href: https://github.com/gu-dsan5200/dsan5200-spring2025-project-group-25
+        aria-label: GitHub
+
+format:
+  html:
+    css: ./style.css
+
+jupyter: python3

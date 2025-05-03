@@ -1,0 +1,43 @@
+* {
+    color: #FFFFFF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+p {
+    font-size: 24px;
+}
+
+
+.quarto-title {
+    text-align: center !important;
+    font-size: 4rem;
+}
+
+
+#quarto-content{
+    background-color: #15151E !important;
+}
+
+
+.cr-section {
+    background-color: #15151E !important;
+    border-radius: 10px;
+}
+
+
+.navbar {
+    background-color: #FF1E00;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+body {
+    background-color: #15151E !important;
+}
+
+
+.figcaption {
+    color: #FFFFFF !important;
+}
